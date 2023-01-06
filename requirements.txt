@@ -2,4 +2,3 @@ aiohttp
 aiohttp_socks
 tgcrypto
 pyrogram
-json
